@@ -1,4 +1,4 @@
-package com.concepts1;
+package com.sorting;
 
 
 public class BubbleSort implements ISort {

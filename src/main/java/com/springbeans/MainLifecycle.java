@@ -1,6 +1,7 @@
-package com.springsingletion;
+package com.springbeans;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 
 public class MainLifecycle {
     public static void main(String[] args) {

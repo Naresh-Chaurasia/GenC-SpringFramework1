@@ -1,4 +1,4 @@
-package com.concepts1;
+package com.sorting;
 
 public class QuickSort implements ISort {
     @Override

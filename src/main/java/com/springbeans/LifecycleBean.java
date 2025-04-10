@@ -1,4 +1,4 @@
-package com.springsingletion;
+package com.springbeans;
 
 import org.springframework.stereotype.Component;
 import jakarta.annotation.PostConstruct;

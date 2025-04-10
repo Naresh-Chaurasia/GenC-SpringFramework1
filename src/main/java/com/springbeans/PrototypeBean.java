@@ -1,4 +1,4 @@
-package com.springsingletion;
+package com.springbeans;
 
 
 import org.springframework.context.annotation.Scope;
