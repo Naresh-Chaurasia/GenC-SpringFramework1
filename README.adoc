@@ -6,6 +6,7 @@
 
 == Topics Covered
 
+* Spring Boot
 * Mocking
 * javax / jsr330
 * Sorting
